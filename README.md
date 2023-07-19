@@ -76,7 +76,7 @@ Clone this repository to your desired folder:
 Install this project with:
 ```
   cd morse-code
-  npm install
+  
 ```
 ### Usage
 To run the project, execute the following command:
