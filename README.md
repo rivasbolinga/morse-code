@@ -46,10 +46,11 @@ During your vacation at the seaside, time after time you find old bottles with p
 
 ### Key Features <a name="key-features"></a>
 
+-Create a method to decode a Morse code character, takes a string parameter, and return the corresponding character in uppercase (e.g. decode_char(".-") returns "A").
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+-Create a method to decode an entire word in Morse code, takes a string parameter, and return the string representation. Every character in a word will be separated by a single space (e.g. decode_word("-- -.--") returns "MY").
+
+-Create a method to decode the entire message in Morse code, takes a string parameter, and return the string representation. Every word will be separated by 3 spaces 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,9 +170,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give it a star 🌟🌟🌟
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
